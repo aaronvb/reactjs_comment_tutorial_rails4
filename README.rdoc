@@ -1,5 +1,7 @@
 == React.js Comment Tutorial with Ruby on Rails 4
 
+View the demo at: http://reactjs-comment-rails4.herokuapp.com
+
 This is based off the React.js comment tutorial at https://facebook.github.io/react/docs/tutorial.html
 
 I added a few changes like the timestamp and the order of the comments being descending.
