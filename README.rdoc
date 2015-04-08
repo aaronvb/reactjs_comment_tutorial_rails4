@@ -1,28 +1,15 @@
-== README
+== React.js Comment Tutorial with Ruby on Rails 4
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is based off the React.js comment tutorial at https://facebook.github.io/react/docs/tutorial.html
 
-Things you may want to cover:
+I added a few changes like the timestamp and the order of the comments being descending.
 
-* Ruby version
+What's being used:
 
-* System dependencies
+* React.js
 
-* Configuration
+* Ruby on Rails 4
 
-* Database creation
+* react-rails
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Moment.js
