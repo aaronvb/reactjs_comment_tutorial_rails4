@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: react_comment_tutorial_development
+  host: localhost
+  pool: 50
